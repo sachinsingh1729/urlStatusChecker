@@ -12,6 +12,6 @@ for using this api server <br />
                      curl http://localhost:8080/Websites \                  
            --header "Content-Type: application/json" \
               --request "POST" \
-              --data '["www.google.com", "www.facebook.com", "www.fakebook123.com"]'
+              --data '["www.google.com", "www.facebook.com", "www.fake123.com"]'
 
  
